@@ -4,6 +4,10 @@ A curated list of proof of personhood approaches.
 
 ## Relevant Papers
 
+* [Personhood: The Killer
+  Credential?](https://www.vennfactory.com/blog-post/personhood-the-killer-credential) :
+  Blog post by Eve Maler describing the impact of a personhood credential on the
+  decentralized ecosystem.  
 * [Personhood credentials: Artificial intelligence and the value of
 privacy-preserving tools to distinguish who is real
 online](https://arxiv.org/html/2408.07892v1) : Made in August 31, this paper was
