@@ -14,6 +14,10 @@ online](https://arxiv.org/html/2408.07892v1) : Made in August 31, this paper was
 created with 31 authors and leaders from the Identity space. It explores the
 problem space and expresses the importance of a solution, without explicitly
 defining _the_ solution.
+* [What do I think about biometric proof of
+  personhood?](https://vitalik.eth.limo/general/2023/07/24/biometric.html) :
+  Blog post in July 2023 from Vitalik Buterin about his thoughst on biometric
+  proof of personhood.
 
 ## Efforts 
 
@@ -34,6 +38,9 @@ defining _the_ solution.
 
 ### Proof Of Work Based
 
+- [Gitcoin Passport](https://www.gitcoin.co/) : Users collect “stamps” from
+  different authenticators around web2 and web3, such as Bright ID, Proof of
+  Humanity, Twitter, and Google to form a reputation score.
 - [Idena](https://www.idena.io/): Idena employs regular checkpoint rituals —
   synchronous validation sessions — to certify a participants’ humanness for the
   consequent epoch. The validation requires solving of flips-puzzles easy for a
