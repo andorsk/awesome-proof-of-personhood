@@ -1,6 +1,6 @@
 # awesome-proof-of-personhood [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of proof of personhood approaches.
+A curated list of proof of personhood approaches. Most 
 
 ## Relevant Papers
 
@@ -51,6 +51,9 @@ defining _the_ solution.
 - [Bright ID](https://www.brightid.org/): similar to proof of humanity, a
   system combining social verification with video submission to create a
   Sybil-proof list of humans.
+- [Circles](https://www.aboutcircles.com/) : An approach to solve the UBI
+  problem using crypto-currency. Individuals vouch for eachother to form a trust
+  network. 
 - [Encointer](https://encointer.org/): A Swiss association. Participants in each Encointer
   community are randomly assigned to periodic small, physical gatherings at a
   randomly selected location in their local area. When it commences, each
