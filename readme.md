@@ -4,7 +4,7 @@ A curated list of proof of personhood approaches.
 
 ## Relevant Papers
 
-[Personhood credentials: Artificial intelligence and the value of
+* [Personhood credentials: Artificial intelligence and the value of
 privacy-preserving tools to distinguish who is real
 online](https://arxiv.org/html/2408.07892v1) : Made in August 31, this paper was
 created with 31 authors and leaders from the Identity space. It explores the
