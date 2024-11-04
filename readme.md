@@ -20,14 +20,13 @@ defining _the_ solution.
   (UIDAI). It provides a 12-digit unique identity number for residents based on
   fingerprint and iris scans, aiming to streamline access to government services
   and prevent identity fraud.
-- [Worldcoin](https://worldcoin.org/): Worldcoin’s World ID is a
-  decentralized digital identity verified through biometric iris scans, ensuring
-  uniqueness and privacy. This project aims to enable equitable access to
-  digital economies and prevent fraud and Sybil attacks.
+- [Worldcoin](https://worldcoin.org/): Worldcoin’s World ID is a decentralized
+  digital identity verified through biometric iris scans. This project aims to
+  enable equitable access to digital economies and prevent fraud and Sybil
+  attacks.
 - [Humanode](https://humanode.io/): Humanode combines facial recognition
   biometrics with blockchain technology to create a proof-of-personhood
-  mechanism that preserves privacy and ensures a unique identity for each
-  participant in a decentralized network.
+  mechanism. 
 
 ### Proof Of Work Based
 
