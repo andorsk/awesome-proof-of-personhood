@@ -16,7 +16,7 @@ problem space and expresses the importance of a solution, without explicitly
 defining _the_ solution.
 * [What do I think about biometric proof of
   personhood?](https://vitalik.eth.limo/general/2023/07/24/biometric.html) :
-  Blog post in July 2023 from Vitalik Buterin about his thoughst on biometric
+  Blog post in July 2023 from Vitalik Buterin about his thoughts on biometric
   proof of personhood.
 
 ## Efforts 
