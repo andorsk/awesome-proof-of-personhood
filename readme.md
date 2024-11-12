@@ -1,6 +1,6 @@
 # awesome-proof-of-personhood [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of proof of personhood approaches. Most 
+A curated list of proof of personhood approaches.  
 
 ## Relevant Papers
 
