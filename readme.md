@@ -69,6 +69,9 @@ defining _the_ solution.
   ledger. As all Encointer gatherings take place at the same time, it is
   impossible to attend more than one event during each cycle. This makes it
   impossible to validate more than one Encointer account.
+  
+### Identity Proofs
+
 - [Veranon](https://github.com/decentralized-identity/labs-veranon/): VerAnon uses Semaphore to enable unique and anonymous verification of personhood. Managers verify user identity documents, adding their Semaphore identity commitments to a group. Subjects then generate zero-knowledge proofs to show membership without revealing their actual identities. This approach helps prevent large-scale bot account creation and enhances privacy across various service providers, all while preserving unique personhood claims.
 
 ## Contribute
