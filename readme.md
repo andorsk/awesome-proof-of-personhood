@@ -60,7 +60,7 @@ defining _the_ solution.
   Sybil-proof list of humans.
 - [Circles](https://www.aboutcircles.com/) : An approach to solve the UBI
   problem using crypto-currency. Individuals vouch for eachother to form a trust
-  network. 
+  network.
 - [Encointer](https://encointer.org/): A Swiss association. Participants in each Encointer
   community are randomly assigned to periodic small, physical gatherings at a
   randomly selected location in their local area. When it commences, each
@@ -73,6 +73,7 @@ defining _the_ solution.
 ### Identity Proofs
 
 - [Veranon](https://github.com/decentralized-identity/labs-veranon/): VerAnon uses Semaphore to enable unique and anonymous verification of personhood. Managers verify user identity documents, adding their Semaphore identity commitments to a group. Subjects then generate zero-knowledge proofs to show membership without revealing their actual identities. This approach helps prevent large-scale bot account creation and enhances privacy across various service providers, all while preserving unique personhood claims.
+- [Billions](https://www.privado.id/blog/privado-id-introduces-billions-the-first-global-human-ai-network) : ZKP network where users verify with passport and phone. 
 
 ## Contribute
 
