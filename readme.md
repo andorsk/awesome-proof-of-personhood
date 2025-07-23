@@ -69,6 +69,8 @@ defining _the_ solution.
   ledger. As all Encointer gatherings take place at the same time, it is
   impossible to attend more than one event during each cycle. This makes it
   impossible to validate more than one Encointer account.
+- [First Person Project](https://www.firstperson.network/): People focused decentralized trust graphs on a non-profit cooperative that
+  requires anchoring on personhood credentials.  The First Person Network is a global digital utility that enables trusted connections between individuals, communities, and organizations.      
   
 ### Identity Proofs
 
