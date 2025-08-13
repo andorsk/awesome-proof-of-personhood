@@ -36,7 +36,8 @@ defining _the_ solution.
 - [Humanity Protocol](https://www.humanity.org/) : Humanity Protocol is a highly scalable and
   decentralized EVM based solution that enables any online actor to be cryptographically proven as a re
   al human through its Proof-of-Humanity mechanisms based on biometric data. 
-- [Realeyes](https://www.realeyesit.com/): General purpose face detection/
+- [Realeyes](https://www.realeyesit.com/): General hardware proof of person, livelieness detection,
+  sentiment detection. 
 - [Worldcoin](https://worldcoin.org/): Worldcoin’s World ID is a decentralized
   digital identity verified through biometric iris scans. This project aims to
   enable equitable access to digital economies and prevent fraud and Sybil
