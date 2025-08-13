@@ -28,13 +28,19 @@ defining _the_ solution.
   (UIDAI). It provides a 12-digit unique identity number for residents based on
   fingerprint and iris scans, aiming to streamline access to government services
   and prevent identity fraud.
+- [Facetec](https://www.facetec.com/): UR Codes, 3D Liveness, OCR, Barcode/NFC for
+  KYC Onboarding + 3D Face Matching for Ongoing Re-Verification
+- [Humanode](https://humanode.io/): Humanode combines facial recognition
+  biometrics with blockchain technology to create a proof-of-personhood
+  mechanism.
+- [Humanity Protocol](https://www.humanity.org/) : Humanity Protocol is a highly scalable and
+  decentralized EVM based solution that enables any online actor to be cryptographically proven as a re
+  al human through its Proof-of-Humanity mechanisms based on biometric data. 
+- [Realeyes](https://www.realeyesit.com/): General purpose face detection/
 - [Worldcoin](https://worldcoin.org/): Worldcoin’s World ID is a decentralized
   digital identity verified through biometric iris scans. This project aims to
   enable equitable access to digital economies and prevent fraud and Sybil
   attacks.
-- [Humanode](https://humanode.io/): Humanode combines facial recognition
-  biometrics with blockchain technology to create a proof-of-personhood
-  mechanism. 
 
 ### Proof Of Work Based
 
@@ -70,7 +76,7 @@ defining _the_ solution.
   impossible to attend more than one event during each cycle. This makes it
   impossible to validate more than one Encointer account.
 - [First Person Project](https://www.firstperson.network/): People focused decentralized trust graphs on a non-profit cooperative that
-  requires anchoring on personhood credentials.  The First Person Network is a global digital utility that enables trusted connections between individuals, communities, and organizations.      
+  requires anchoring on personhood credentials.  The First Person Network is a global digital utility that enables trusted connections between individuals, communities, and organizations.
   
 ### Identity Proofs
 
