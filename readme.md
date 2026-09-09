@@ -45,9 +45,6 @@ defining _the_ solution.
 
 ### Proof Of Work Based
 
-- [Gitcoin Passport](https://www.gitcoin.co/) : Users collect “stamps” from
-  different authenticators around web2 and web3, such as Bright ID, Proof of
-  Humanity, Twitter, and Google to form a reputation score.
 - [Idena](https://www.idena.io/): Idena employs regular checkpoint rituals —
   synchronous validation sessions — to certify a participants’ humanness for the
   consequent epoch. The validation requires solving of flips-puzzles easy for a
@@ -83,6 +80,7 @@ defining _the_ solution.
 
 - [Veranon](https://github.com/decentralized-identity/labs-veranon/): VerAnon uses Semaphore to enable unique and anonymous verification of personhood. Managers verify user identity documents, adding their Semaphore identity commitments to a group. Subjects then generate zero-knowledge proofs to show membership without revealing their actual identities. This approach helps prevent large-scale bot account creation and enhances privacy across various service providers, all while preserving unique personhood claims.
 - [Billions](https://www.privado.id/blog/privado-id-introduces-billions-the-first-global-human-ai-network) : ZKP network where users verify with passport and phone. 
+- [Human Passport](https://passport.human.tech/) : Users collect Stamps — verifiable credentials from providers such as Google, LinkedIn and GitHub, onchain behaviour models, and Proof of Clean Hands, a zero-knowledge identity and sanctions check. Together these form a Unique Humanity Score. Integrators read scores through an API or onchain, or embed the flow with Passport Embed. Data Services screens a project's own wallet list and returns a Sybil classification for each address, so a campaign can be cleaned before rewards go out. Formerly Gitcoin Passport.
 
 ## Contribute
 
