@@ -83,6 +83,7 @@ defining _the_ solution.
 
 - [Veranon](https://github.com/decentralized-identity/labs-veranon/): VerAnon uses Semaphore to enable unique and anonymous verification of personhood. Managers verify user identity documents, adding their Semaphore identity commitments to a group. Subjects then generate zero-knowledge proofs to show membership without revealing their actual identities. This approach helps prevent large-scale bot account creation and enhances privacy across various service providers, all while preserving unique personhood claims.
 - [Billions](https://www.privado.id/blog/privado-id-introduces-billions-the-first-global-human-ai-network) : ZKP network where users verify with passport and phone. 
+- [Soverage](https://soverage.com/): Privacy-first proof of personhood built on W3C Verifiable Credentials and DIDs. A one-time verification establishes unique personhood, and the holder shares selective proofs such as "real, unique person" instead of personal data.
 
 ## Contribute
 
