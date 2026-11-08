@@ -86,7 +86,7 @@ defining _the_ solution.
 
 ## Resources
 
-- [Free Lunch Lab](https://neteru-nyukin.eltociear.workers.dev/#verify) : A directory of basic-income-style apps and projects grouped by how each one checks that you are a unique human (World ID/Orb, face scan, ID document KYC, phone number, web of trust, or none), with sources and notes on biometric data.
+- [Free Lunch Lab](https://neteru-nyukin.eltociear.workers.dev/verify/) : A directory of basic-income-style apps and projects grouped by how each one checks that you are a unique human (World ID/Orb, face scan, ID document KYC, phone number, web of trust, or none), with service counts per method, sources and notes on biometric data.
 
 ## Contribute
 
