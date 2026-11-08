@@ -84,6 +84,10 @@ defining _the_ solution.
 - [Veranon](https://github.com/decentralized-identity/labs-veranon/): VerAnon uses Semaphore to enable unique and anonymous verification of personhood. Managers verify user identity documents, adding their Semaphore identity commitments to a group. Subjects then generate zero-knowledge proofs to show membership without revealing their actual identities. This approach helps prevent large-scale bot account creation and enhances privacy across various service providers, all while preserving unique personhood claims.
 - [Billions](https://www.privado.id/blog/privado-id-introduces-billions-the-first-global-human-ai-network) : ZKP network where users verify with passport and phone. 
 
+## Resources
+
+- [Free Lunch Lab](https://neteru-nyukin.eltociear.workers.dev/#verify) : A directory of basic-income-style apps and projects grouped by how each one checks that you are a unique human (World ID/Orb, face scan, ID document KYC, phone number, web of trust, or none), with sources and notes on biometric data.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
